@@ -30,7 +30,6 @@ TechNova is a modern, sleek, and professional React-based landing page for a tec
    cd your-repo-name
    npm install
    npm run dev
-```
 
 
 
