@@ -27,3 +27,10 @@ TechNova is a modern, sleek, and professional React-based landing page for a tec
 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   npm install
+   npm run dev
+```
+
+
+
