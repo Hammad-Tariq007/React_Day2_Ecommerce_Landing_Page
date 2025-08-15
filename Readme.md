@@ -8,6 +8,7 @@ TechNova is a modern, sleek, and professional React-based landing page for a tec
 
 ## Features
 
+
 - **Responsive Transparent Navbar:** Stylish navigation bar with interactive links and buttons that adapt to screen size.
 - **Full-Screen Hero Section:** Eye-catching hero image with centered brand message and call-to-action button.
 - **Product Showcase:** Clean and reusable Card components to display products dynamically.
